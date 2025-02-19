@@ -22,7 +22,7 @@ The code will be coming soon(under construction)
 ```
 
 ## Contact
-If you have any question, please send an email to taewoo(an625148@gmail.com)
+If you have any question, please send an email to taewoo(an625148@gmail.com).
 
 ## License
 The project codes and datasets can be used for research and education only. 
